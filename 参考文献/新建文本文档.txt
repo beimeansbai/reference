@@ -1,0 +1,30 @@
+RACC: An efficient and revocable fine grained access control model for cloud storage. n
+
+Blockchain-Based Access Control Model to Preserve Privacy for Personal Health Record Systems.y
+
+A Distributed Access Control with Outsourced Computation in Fog Computing. y
+
+Access Control Based on Ciphertext Attribute Authentication and Threshold Policy for the Internet of Things y
+
+Multitenant Access Control for Cloud-Aware Distributed Filesystems y
+
+Towards Efficient Fine-Grained Access Control and Trustworthy Data Processing for Remote Monitoring Services in IoT. y
+
+An Attribute-Based Controlled Collaborative Access Control Scheme for Public Cloud Storage. y
+
+Privacy Preserving Time Efficient Access Control Aware Keyword Search Over Encrypted Data on Cloud Storage. y
+
+Cryptographically Enforced Access Control in Blockchain-Based Platforms  y
+
+Decentralized Access Control Infrastructure using Blockchain for Big Data. y
+
+Blockchain-Based Smart Contract Access Control System. y
+
+Decentralized Access Control Encryption in Public Blockchain. y
+
+Using Ethereum Blockchain for Distributed Attribute-Based Access Control in the Internet of Things. y
+Distributed Access Control with Blockchain. y
+
+Decentralized Access Control for IoT Data Using Blockchain and Trusted Oracles. y
+
+Decentralized access control for smart buildings using metadata and smart contracts. y
